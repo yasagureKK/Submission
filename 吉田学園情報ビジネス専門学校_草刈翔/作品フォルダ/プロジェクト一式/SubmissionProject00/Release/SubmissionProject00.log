@@ -1,9 +1,64 @@
-﻿  manager.cpp
+﻿  billboard.cpp
+  billboard_effect.cpp
+  billboard_moon.cpp
+  camera.cpp
+  control.cpp
+  control_player.cpp
+  control_ui_game_countdown.cpp
+  control_ui_title_enter.cpp
+  effect2D.cpp
+  fade.cpp
+  game.cpp
+  game_object.cpp
+  game_signboard.cpp
+  input.cpp
+  input_keyboard.cpp
+  input_pad.cpp
+  light.cpp
+  main.cpp
+  manager.cpp
+  menu.cpp
+  コンパイル中...
+  mesh_field.cpp
+  mesh_wall.cpp
+  model.cpp
+  model_load.cpp
+  model_single.cpp
+  motion_player.cpp
+  mesh_cylinder.cpp
+  number.cpp
+  number3D.cpp
+  particle.cpp
+  billboard_smoke.cpp
+  particle_wind.cpp
+  pause.cpp
+  particle_circle.cpp
+  player.cpp
+  pvp.cpp
+  ranking.cpp
+  renderer.cpp
   result.cpp
+  scene.cpp
+  コンパイル中...
+  scene2D.cpp
+  scene3D.cpp
+  score.cpp
+  score_board.cpp
+  jump_guide.cpp
+  shadow.cpp
+  sound..cpp
+  soundtest.cpp
+  sound_number.cpp
+  texture.cpp
+  title.cpp
+  turorial_pause.cpp
+  tutorial.cpp
+  tutorial_guide.cpp
+  ui.cpp
   コード生成しています。
-  1 of 598 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  589 of 592 functions (99.5%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  SubmissionProject00.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\SubmissionProject00\Release\SubmissionProject00.exe
-  SubmissionProject00.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\SubmissionProject00\Release\SubmissionProject00.pdb (Full PDB)
+  SubmissionProject00.vcxproj -> C:\Users\student\Desktop\新しいフォルダー\09_草刈翔\SubmissionProject00\Release\SubmissionProject00.exe
+  SubmissionProject00.vcxproj -> C:\Users\student\Desktop\新しいフォルダー\09_草刈翔\SubmissionProject00\Release\SubmissionProject00.pdb (Full PDB)

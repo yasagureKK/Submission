@@ -72,10 +72,6 @@ private:
 	int m_nMoveCount;						// 移動時のカウント
 	PLAYER_NEXT_INPUT m_nextInput;			// 次に入力する操作
 	CParticle *m_pParticle;					// パーティクルのポインタ
-
-#ifdef _DEBUG
-	void DebugMove(CPlayer *pPlayer);		// デバッグ用の移動処理
-#endif
 };
 
 #endif	//_CONTROL_PLAYER_H_

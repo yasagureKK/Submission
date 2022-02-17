@@ -51,10 +51,6 @@ public:
 private:
 	void Move();												// カメラの移動
 
-#ifdef _DEBUG
-	void DebugMove();											// デバッグ用のカメラ
-#endif
-
 	D3DXVECTOR3 m_posV;											// 現在の視点
 	D3DXVECTOR3 m_posVDest;										// 目的の視点
 	D3DXVECTOR3 m_posR;											// 現在の注視点

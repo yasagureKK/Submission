@@ -55,18 +55,6 @@ HRESULT CScoreBoard::Init(D3DXVECTOR3 pos, D3DXVECTOR3 size, D3DCOLOR col)
 //=============================================================================
 void CScoreBoard::Uninit(void)
 {
-	//ナンバーの破棄
-	//for (int nCntScore = 0; nCntScore < MAX_SCORE_BOARD_DIGIT; nCntScore++)
-	//{
-	//	// ヌルチェック
-	//	if (m_apNumber3D[nCntScore] != NULL)
-	//	{
-	//		m_apNumber3D[nCntScore]->Uninit();
-	//		delete m_apNumber3D[nCntScore];
-	//		m_apNumber3D[nCntScore] = NULL;
-	//	}
-	//}
-
 	// オブジェクトの破棄
 	Release();
 }

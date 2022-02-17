@@ -172,7 +172,6 @@
     <ClCompile Include="manager.cpp" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="mesh_field.cpp" />
-    <ClCompile Include="mesh_sphere.cpp" />
     <ClCompile Include="mesh_wall.cpp" />
     <ClCompile Include="model.cpp" />
     <ClCompile Include="model_load.cpp" />

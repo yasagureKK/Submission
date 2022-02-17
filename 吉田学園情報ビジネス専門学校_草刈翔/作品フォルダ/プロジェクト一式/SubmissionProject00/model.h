@@ -41,7 +41,6 @@ public:
 	D3DXVECTOR3 GetSize(void);							// サイズ取得処理
 
 private:
-	void Collision(void);								// 当たり判定
 	LPD3DXMESH m_pMesh;									// メッシュ(頂点情報)へのポインタ
 	LPD3DXBUFFER m_pBuffMat;							// マテリアル(材質情報)へのポインタ
 	DWORD m_nNumMat;									// マテリアル数
